@@ -2,7 +2,9 @@
 
 I’m a software engineer, mathematician, and builder of tools that make people more effective. Over the last two decades I’ve worked across embedded systems, CAD automation, manufacturing R&D, motor control, and productivity software. My work has ranged from **low-level embedded controllers** to **full CAD/ERP systems** used daily by engineers and manufacturers.
 
-I am in the process of taking my github account from a place where toy projects lived into being a proper portfolio since most of my work has been for private companies. 
+## 🧭 I am in the process of taking my github account from a place where toy projects lived into being a proper portfolio since most of my work has been for private companies. 
+- I will create a brushless DC motor controller in Rust-embassy, C++ Baremetal, C++ freeRTOS, and Rust-TockOs or Rust-RedOx (both of which will require some hacking for real time interrupts). This is to answer the question whether there are significant costs to using rust. I keep hearing both that rust is better and rust is much worse but have yet to see evidence either way.__
+
 ---
 
 ## 🚀 What I Do Best
