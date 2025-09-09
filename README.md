@@ -2,7 +2,7 @@
 
 I’m a software engineer, mathematician, and builder of tools that make people more effective. Over the last two decades I’ve worked across embedded systems, CAD automation, manufacturing R&D, motor control, and productivity software. My work has ranged from **low-level embedded controllers** to **full CAD/ERP systems** used daily by engineers and manufacturers.
 
-I am in the process of taking my github account from a place where toy projects lived into being a proper portfolio since most of my work has been for privet companies. 
+I am in the process of taking my github account from a place where toy projects lived into being a proper portfolio since most of my work has been for private companies. 
 ---
 
 ## 🚀 What I Do Best
